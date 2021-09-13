@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 450" style="enable-background:new 0 0 600 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Optien';}
+	.st3{font-size:143.9511px;}
+</style>
+<g>
+	<path d="M302,103c28.8,0,56,11.2,76.4,31.6S410,182.2,410,211s-11.2,56-31.6,76.4S330.8,319,302,319s-56-11.2-76.4-31.6
+		S194,239.8,194,211s11.2-56,31.6-76.4S273.2,103,302,103 M302,102c-60.2,0-109,48.8-109,109s48.8,109,109,109s109-48.8,109-109
+		S362.2,102,302,102L302,102z"/>
+</g>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="228.425" y1="211" x2="446.425" y2="211">
+		<stop  offset="0" style="stop-color:#666666"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<circle class="st0" cx="337.4" cy="211" r="109"/>
+</g>
+<text transform="matrix(1 0 0 1 291.1001 257.4678)" class="st1 st2 st3">M</text>
+</svg>
